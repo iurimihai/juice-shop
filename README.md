@@ -317,7 +317,6 @@ For a list of all contributors to the OWASP Juice Shop please visit our
 [HALL_OF_FAME.md](HALL_OF_FAME.md).
 
 
-
 ## Licensing
 
 [![license](https://img.shields.io/github/license/bkimminich/juice-shop.svg)](LICENSE)
